@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Kanna (2.2.0)
+  - Moya (8.0.3):
+    - Moya/Core (= 8.0.3)
+  - Moya/Core (8.0.3):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/ReactiveSwift (8.0.3):
+    - Moya/Core
+    - ReactiveSwift (~> 1.0)
+  - ReactiveCocoa (5.0.1):
+    - ReactiveSwift (~> 1.1)
+  - ReactiveSwift (1.1.0):
+    - Result (~> 3.1)
+  - Realm (2.4.4):
+    - Realm/Headers (= 2.4.4)
+  - Realm/Headers (2.4.4)
+  - RealmSwift (2.4.4):
+    - Realm (= 2.4.4)
+  - Result (3.2.1)
+
+DEPENDENCIES:
+  - Kanna
+  - Moya
+  - Moya/ReactiveSwift
+  - ReactiveCocoa
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Kanna: b3b3368d673845f48c572c6746c2278deebe26b9
+  Moya: d3721622e3cc0cc2f038d69a258686f0b66e7252
+  ReactiveCocoa: f577006aa6c7b0b08020109ebaae3b77ada00adc
+  ReactiveSwift: 2f4e4a02e5a5c87ea63f5fe667163ce2a67cbb57
+  Realm: 5a280a1f5a9a3c267bebf4f41ee47911137703d7
+  RealmSwift: 0c02b9f2d4be4301c497ed10e53a0580584eb1dd
+  Result: 2453a22e5c5b11c0c3a478736e82cd02f763b781
+
+PODFILE CHECKSUM: 7d34e2a580977d765a478ec206c0b3bcd0eeb24a
+
+COCOAPODS: 1.2.0
